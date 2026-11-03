@@ -1,0 +1,15 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
+requests>=2.31.0
+chromadb>=0.4.24
+langgraph>=0.0.26
+langchain>=0.1.16
+langchain-core>=0.1.42
+langchain-community>=0.0.32
+langchain-groq>=0.1.0
+langchain-openai>=0.1.0
+langchain-google-genai>=1.0.0
+
